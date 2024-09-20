@@ -52,13 +52,13 @@ The **Tech House** app simplifies the process of buying laptops through a clean 
    - Displays laptops added to the cart.
    - Users can modify the quantity of selected laptops and remove unwanted items.
 
-<img src="https://github.com/user-attachments/assets/8b85721b-5c5d-47e1-8a88-b37b194b9d0d" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/fba94b93-b48b-4c87-ab0d-ef22eeabe15c" width="200" height="400"/>
 
 ### 💳 Checkout Page
    - Shows a summary of the purchase and total price.
    - Users can confirm payment to complete the transaction.
 
-<img src="https://github.com/user-attachments/assets/ced3d55a-9873-4c96-b015-bcc68f73ff0b" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/8b85721b-5c5d-47e1-8a88-b37b194b9d0d" width="200" height="400"/>
 
 ### 👤 Profile Page
    - Displays user information, such as:
@@ -68,12 +68,12 @@ The **Tech House** app simplifies the process of buying laptops through a clean 
      - Address
    - Users can modify their address dynamically.
 
-<img src="https://github.com/user-attachments/assets/d4790e8c-400b-4e14-82cc-e61c258f2e3b" width="200" height="400"/>
+<img src="https://github.com/user-attachments/assets/ced3d55a-9873-4c96-b015-bcc68f73ff0b" width="200" height="400"/>
 
 ### 🔍 Details Page
    - Displays detailed specifications of the selected laptop.
 
-<img src="https://github.com/user-attachments/assets/fba94b93-b48b-4c87-ab0d-ef22eeabe15c" width="200" height="400"/>
+ <img src="https://github.com/user-attachments/assets/d4790e8c-400b-4e14-82cc-e61c258f2e3b" width="200" height="400"/> <img src="https://github.com/user-attachments/assets/0c794493-8eba-412e-8642-d4e1e7de496d" width="200" height="400"/>
 
 ### 🛠️ Admin Page
    - Allows the admin to add data and upload images to Firebase.
