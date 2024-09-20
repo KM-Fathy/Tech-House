@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "928956995400",
+    "project_id": "techhouse-c8aba",
+    "storage_bucket": "techhouse-c8aba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928956995400:android:70ef142e578b68fa0c057d",
+        "android_client_info": {
+          "package_name": "com.example.techhouse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjs9tZIRJLj5VpPT9TjvOJ9y-vpbMnKWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
